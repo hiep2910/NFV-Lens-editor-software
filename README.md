@@ -5,7 +5,7 @@ Here’s a **README** for the **Lens Profile Generator** software:
 # **Lens Profile Generator**
 
 **Version**: 1.0  
-**Author**: [Your Name]  
+**Author**: [NFV Tech Solutions TEAM]  
 **Platform**: LabVIEW
 
 ## **Overview**
@@ -30,7 +30,7 @@ This software supports spherical and aspherical lens designs and includes option
   Generates the (r, z) points for the lens profile based on mathematical models for spherical and aspherical lenses.
 
 - **Graphical Visualization**:  
-  Displays the generated lens profile on an XY graph in real time.
+  Displays the generated lens profile on an XY graph in real-time.
 
 - **Data Export**:  
   Ability to export the lens profile points (r, z) as a CSV file or text file for external use.
@@ -133,8 +133,8 @@ This software is provided under the MIT License. See the LICENSE file for more d
 ## **Contact**
 
 For issues, suggestions, or contributions, please contact:  
-[Your Name]  
-Email: [Your Email]
+[Cao Hiep]  
+Email: [hiep.cao@nti-nanofilm.com]
 
 ---
 
