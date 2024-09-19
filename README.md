@@ -5,7 +5,7 @@ Here’s a **README** for the **Lens Profile Generator** software:
 # **Lens Profile Generator**
 
 **Version**: 1.0  
-**Author**: [NFV Tech Solutions TEAM]  
+**Author**: [Hiep Cao, Tuan Do, Dat Nguyen, Dat Phan]  
 **Platform**: LabVIEW
 
 ## **Overview**
